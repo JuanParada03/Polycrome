@@ -1,0 +1,45 @@
+body {
+    margin: 0px;
+    background-image: url(https://irp.cdn-website.com/2102a058/dms3rep/multi/Publicaciones+impresas+en+revista.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: local;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(255, 255, 255, 0.7);
+    position: fixed;
+    width: 100%;
+    margin: px px 0px 0px;
+    top: 0; 
+}
+img {
+    width: 270px;
+    margin: 20px 53px;
+}
+a {
+    text-decoration: none;
+    color: black;
+    margin: 0px 30px;
+}
+.header__nav_a--bgblackradius {
+    background-color: black;
+    color: #dbdbdb;
+    padding: 15px 25px;
+    margin: 0px 30px;
+    border-radius: 50px;
+}
+.main__div {
+    width: 80%;
+    background-color: white;
+    margin: 150px auto;
+    color: black;
+    padding: 10px 15px;
+    border-radius:50px;
+}
+.main__div--h1{
+    text-align: center;
+    font-size: 3.5rem;
+}
